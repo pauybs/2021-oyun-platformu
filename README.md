@@ -11,7 +11,7 @@ Bu proje Pamukkale Üniversitesi Yönetim Bilişim Sistemi bölümünde öğrenc
 <ul>
   <li><b>Instagram:</b> https://www.instagram.com/roakgame/</li>
   <li><b>Twitter:</b> https://twitter.com/roakgame</li>
-  <li><b>Twitter:</b> t.me/roakgame</li>
+  <li><b>Telegram:</b> https://t.me/roakgame</li>
 </ul>
 
 **GELİŞTİRİCİLER**<br>
